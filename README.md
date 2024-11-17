@@ -8,7 +8,7 @@
 # HOW TO RUN
 - Step 1:
 ```Bash
-git clone [https://github.com/Jhinkz018/Burat.git]
+git clone https://github.com/Jhinkz018/Burat.git]
 ```
 - Step 2:
 ```Bash
