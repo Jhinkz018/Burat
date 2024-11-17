@@ -12,7 +12,7 @@ git clone https://github.com/Jhinkz018/Burat.git
 ```
 - Step 2:
 ```Bash
-cd NodepayBot
+cd Burat
 ```
 - Step 3:
 ```
