@@ -4,3 +4,4 @@ loguru
 fake-useragent
 python-dateutil
 colorama
+pyfiglet
